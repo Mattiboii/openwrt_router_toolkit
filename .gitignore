@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary logs
+*.log
+unlock_log.txt
+stage1_log.txt
+stage2_log.txt
+boot_log.txt
+
+# Virtual environments
+venv/
+.env/
+
+# Editor / IDE artifacts
+.vscode/
+.idea/
+*.swp

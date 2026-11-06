@@ -1,6 +1,6 @@
-# Zyxel EX5601-T0 / MT7986 OpenWrt Toolkit & Recovery Guide
+# OpenWrt Router Toolkit (`openwrt_router_toolkit`)
 
-An open-source toolkit and comprehensive guide to recovering, unlocking the password-protected bootloader, dumping OEM keys, and permanently flashing OpenWrt (`ubootmod` layout) on **Zyxel EX5601-T0 / T-56** routers.
+An open-source toolkit and comprehensive guide to recovering, unlocking password-protected bootloaders, dumping OEM credentials, and permanently flashing OpenWrt (`ubootmod` layout) on **Zyxel EX5601-T0 / T-56** and MediaTek Filogic routers.
 
 Includes both a **modern graphical interface (GUI)** and a **headless command-line interface (CLI)**.
 

@@ -1,0 +1,2 @@
+# OpenWrt Router Toolkit Dependencies
+pyserial>=3.5

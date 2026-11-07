@@ -1,4 +1,4 @@
-# OpenWrt Router Toolkit (`openwrt_router_toolkit`)
+# OpenWrt Router Toolkit 
 
 An open-source toolkit and comprehensive guide to recovering, unlocking password-protected bootloaders, dumping OEM credentials, and permanently flashing OpenWrt (`ubootmod` layout) on **Zyxel EX5601-T0 / T-56** and MediaTek Filogic routers.
 
